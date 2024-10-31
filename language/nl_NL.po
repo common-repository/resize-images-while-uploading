@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Auto Image Resizer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-08 15:44+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dennis Hoppe <mail@DennisHoppe.de>\n"
+"Language-Team: Renee Klein <info@101themes.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: t;t:2c,1\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: NETHERLANDS\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp-plugin-auto-image-resizer.php:90
+msgid "Auto Image Resizer Options"
+msgstr "Auto Image Resizer Opties"
+
+#: ../wp-plugin-auto-image-resizer.php:91
+#: ../options-page/options-page.php:3
+msgid "Auto Image Resizer"
+msgstr "Auto Image Resizer"
+
+#: ../wp-plugin-auto-image-resizer.php:99
+msgid "Image Size"
+msgstr "Grootte Afbeelding"
+
+#: ../wp-plugin-auto-image-resizer.php:100
+msgid "Image quality"
+msgstr "Kwaliteit Afbeelding"
+
+#: ../wp-plugin-auto-image-resizer.php:230
+msgid "Convert my images into grayscale."
+msgstr "Converteer mijn afbeeldingen naar grijstinten."
+
+#: ../wp-plugin-auto-image-resizer.php:298
+#, php-format
+msgid "Sorry, this feature is only available in the <a href=\"%s\" target=\"_blank\">Pro Version of Auto Image Resizer</a>."
+msgstr "Sorry, deze functie is alleen beschikbaar in de <a href=\"%s\" target=\"_blank\">Pro Versie van Auto Image Resizer</a>."
+
+#: ../wp-plugin-auto-image-resizer.php:299
+msgctxt "Link to the authors website"
+msgid "http://dennishoppe.de/en/wordpress-plugins/auto-image-resizer"
+msgstr "http://dennishoppe.de/en/wordpress-plugins/auto-image-resizer"
+
+#: ../options-page/option-box-image-quality.php:2
+msgid "JPEG Quality:"
+msgstr "JPEG Kwaliteit:"
+
+#: ../options-page/option-box-image-quality.php:4
+msgid "Ranges from 0 (worst quality, smaller file) to 100 (best quality, biggest file)."
+msgstr "Varieert van 0 (slechtste kwaliteit, kleiner bestand) tot 100 (beste kwaliteit, grootste bestand)."
+
+#: ../options-page/option-box-image-quality.php:8
+msgid "PNG Compression:"
+msgstr "PNG Compressie:"
+
+#: ../options-page/option-box-image-quality.php:10
+msgid "Compression level: from 0 (no compression) to 9."
+msgstr "Compressieniveau: van 0 (geen compressie) tot 9."
+
+#: ../options-page/option-box-image-size.php:11
+msgid "You can change these options on the media settings page."
+msgstr "U kunt deze opties op de pagina media-instellingen wijzigen."
+
+#: ../options-page/option-box-update.php:1
+msgid "Your Account"
+msgstr "Jouw Account"
+
